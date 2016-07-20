@@ -13,7 +13,11 @@
 
 ## To Use 
 - Just run
-- Client should point to your browser
+- Client should point to your ip address at their browser
+ 
+
+## Production
+- Tested with more than 30 concurrent users in LAN environment
 
 
 
